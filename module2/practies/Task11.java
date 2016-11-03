@@ -1,7 +1,5 @@
-/**
- * Created by Stan on 24.08.2016.
- */
-public class Task1 {
+
+public class Task11 {
 
     static int balancesSum(int[] balances) {
         int sum = 0;

@@ -1,6 +1,4 @@
-/**
- * Created by Stan on 23.08.2016.
- */
+
 public class Task1 {
 
     static int sum(int array[]){

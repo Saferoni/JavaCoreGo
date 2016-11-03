@@ -1,8 +1,6 @@
-/**
- * Created by Stan on 24.08.2016.
- */
 
-public class Task2 {
+
+public class Task22 {
 
     static long containsCount(long[] array, int n) {
         int k = 0;

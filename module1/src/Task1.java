@@ -1,6 +1,4 @@
-/**
- * Created by Stan on 19.08.2016.
- */
+
 public class Task1 {
 
     static int  balanceSum (int[] balances){

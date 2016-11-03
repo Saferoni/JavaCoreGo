@@ -1,6 +1,4 @@
-/**
- * Created by Stan on 23.08.2016.
- */
+
 public class Task4 {
 
 static int[] balances = {1200, 250, 2000, 500, 3200};

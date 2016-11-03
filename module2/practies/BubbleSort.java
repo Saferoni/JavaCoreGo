@@ -1,6 +1,4 @@
-/**
- * Created by Stan on 24.08.2016.
- */
+
 import java.util.Arrays;
 
 public class BubbleSort {

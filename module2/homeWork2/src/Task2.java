@@ -1,6 +1,4 @@
-/**
- * Created by Stan on 24.08.2016.
- */
+
 public class Task2 {
     //HOMEWORK 2.1
 

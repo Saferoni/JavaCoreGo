@@ -1,7 +1,5 @@
-/**
- * Created by Stan on 24.08.2016.
- */
-public class Task3 {
+
+public class Task33 {
 
     static double withdrawBalance(double balance, double withdrawal, double commission) {
         // double commission = 1.5;
